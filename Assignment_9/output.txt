@@ -1,0 +1,51 @@
+Eteban Serna Jr.
+Com S 342.
+Assignment 9. 
+
+Quesiton 1. 
+    In mystery([1,4,6],[3,6],Z).
+    Z is  [1,4,6,3,6]. 
+
+Question 2:
+	A).Compute the Nth term in the Fib Seq. 
+        Check the submited .pl File for code.  
+        fib(0,R). -> R = 0 . 
+        fib(1,R). -> R = 1 . 
+        fib(2,R). -> R = 1 . 
+        fib(3,R). -> R = 2 . 
+        fib(5,R). -> R = 5 .
+        ... 
+        fib(10,R). -> R = 55.
+
+        Negative values return false. 
+
+
+
+	
+	B).Reverse a list and any reverse lists. 
+        Check the submited .pl File for code.  
+        Given inputs: 
+        nestRev([a,b,c] ,R) -> R = [c, b, a].
+        nestRev([1,2,[2,4],5,1,2,[3,4,5],6],R) - > R = [6, [5, 4, 3], 2, 1, 5, [4, 2], 2, 1].
+        nestRev([1,2,[2,4],5],R) - >  R = [5, [4, 2], 2, 1]
+        
+        Fails on every non-list elements; returns false. 
+
+	
+Question 3: Prolog parsing. 
+    A).
+        Check the submited .pl File for the code.
+
+    B).
+	< Enter in the Tested used sentences > 
+	It passes the tests.
+
+    C). 
+        No, the order does not matter. 
+
+
+Question 4:
+	Puzzel Sol:
+        Check the submited .pl File for code.  
+		Water Drinker: 
+        Zebra Owner: 
